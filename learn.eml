@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" jdk="1.6" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: org.projectlombok:lombok:1.16.18" scope="PROVIDED"/>
+	<lib name="Maven: junit:junit:3.8.1" scope="TEST"/>
+	<levels>
+		<level name="Maven: org.projectlombok:lombok:1.16.18" value="project"/>
+		<level name="Maven: io.netty:netty-all:4.1.6.Final" value="project"/>
+		<level name="Maven: junit:junit:3.8.1" value="project"/>
+		<level name="Maven: com.google.guava:guava:18.0" value="project"/>
+	</levels>
+</component>
